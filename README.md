@@ -7,7 +7,7 @@
 ---
 
 
-**Follow my learning journey:** [genai-learning-journey](link-when-created) 
+**Follow my learning journey:** [genai-learning-journey](https://github.com/aathira-p/genai-learning-journey.git) 
 
 ---
 
